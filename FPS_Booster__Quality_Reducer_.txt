@@ -29,4 +29,4 @@ _G.Settings = {
         ["Low Quality Parts"] = true -- Lower quality parts
     }
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wasifnew/tae/refs/heads/main/FPSBooster.lua.txt?token=GHSAT0AAAAAAC7GHHNW2O7GF2PDP7GG65VQZ5VNP6A"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wasifnew/taee/refs/heads/main/FPSBooster.lua.txt"))()
